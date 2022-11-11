@@ -11,4 +11,11 @@ Things to work on :
 - Image processing 
 - Attention learning model 
 
-
+Notes for what we add to what : 
+- For the D-R-D (project : Diabetic-Retinopathy-Detection by ramanakshay) 
+	- Add ROC curves and AUC, add the confusion matrix 
+	- add attention learnign 
+- For kaggle code : 
+	- better image processing and access to images 
+	- better model training 
+	- maybe add cnn model. 
