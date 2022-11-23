@@ -19,3 +19,5 @@ Notes for what we add to what :
 	- better image processing and access to images 
 	- better model training 
 	- maybe add cnn model. 
+
+- Reference work https://github.com/ramanakshay/Diabetic-Retinopathy-Detection
